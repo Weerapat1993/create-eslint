@@ -16,6 +16,6 @@ create-eslint [eslint-config-name]
 
 ### Eslint Config Name
 
-* react-app
-* react-native
-* airbnb
+* [react-app](https://www.npmjs.com/package/eslint-config-react-app)
+* [react-native](https://www.npmjs.com/package/eslint-config-react-native)
+* [airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
