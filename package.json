@@ -1,0 +1,15 @@
+{
+  "name": "create-eslint",
+  "version": "1.0.0",
+  "description": "Create Eslint",
+  "main": "index.js",
+  "bin": {
+    "create-eslint": "./eslint.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Weerapat Thawatchoketawee",
+  "license": "ISC"
+}
